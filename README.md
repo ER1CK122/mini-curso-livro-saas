@@ -61,7 +61,7 @@ Siga o design no Figma para este mini-projeto.
 
 ### Figma
 
-🔗 [Link do design](https://www.figma.com/community/file/1423775673058225189/mini-projeto-saas-landing-page-com-next-js)
+🔗 [Link do design](https://www.figma.com/design/joe6wnm8ClX0xdikbalqv2/Livro-Saas?node-id=0-1&t=3t81fdoSHaZeh4nR-1)
 
 ## 👉🏽 Sobre este Mini-Projeto
 
